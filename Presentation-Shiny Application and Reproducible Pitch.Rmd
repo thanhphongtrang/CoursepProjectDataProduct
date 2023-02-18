@@ -1,0 +1,30 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "Me"
+date: "18/92/2023"
+output: ioslides_presentation
+---
+
+## The Project Overview
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, to upload the presentation to Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## The Tech Giant Stock data
+
+Also known as Big Tech, it is the name given to the largest and the most dominant companies in the information technology industry of the US, including Apple, Microsoft, Amazon,  Alphabet (Google), and Meta (Facebook). 
+
+This project shows you how their stock prices changed from 1986 to 2020.
+
+## Links
+
+Website:
+
+
+
+Github:
+
+
+
+## Thank you
+
+Wish you all the best!
